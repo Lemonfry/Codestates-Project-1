@@ -9,3 +9,4 @@ GTRSB 데이터는 https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f
 참고한 사이트들은 다음과 같습니다.
 1. https://github.com/chsasank/Traffic-Sign-Classification.keras
 2. https://junstar92.tistory.com/114
+3. https://colab.research.google.com/github/frogermcs/GTSRB-TensorFlow-Lite/blob/master/notebooks/GTSRB_TensorFlow_MobileNet.ipynb
